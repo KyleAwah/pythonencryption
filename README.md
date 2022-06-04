@@ -1,7 +1,7 @@
 # Python Encryption
 
 <p>
-Kyle Awah (BSc. Hons) - Portfolio 2022
+Kyle Awah (BSc. Hons)
 <br>
 Contact: kyawah@gmail.com
 <br><br>
